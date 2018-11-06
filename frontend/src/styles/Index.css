@@ -1,0 +1,12 @@
+@import "App.css";
+
+:root {
+  --background: #000;
+  --text-primary: #fff;
+  --font-family: 'Roboto';
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+}

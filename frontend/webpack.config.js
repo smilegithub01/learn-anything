@@ -1,6 +1,6 @@
 const path = require('path');
 
-const outputDir = path.join(__dirname, 'build/');
+const outputDir = path.join(__dirname, 'build/static/');
 const isProd = process.env.NODE_ENV === 'production';
 
 module.exports = {

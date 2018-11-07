@@ -30,7 +30,7 @@ And an explore page for visualizing the connections of topics to give an overvie
 
 ## Contributing
 
-Please read our [contribution guidelines](CONTRIBUTING.md#readme).
+Please read our [contribution guidelines](.github/CONTRIBUTING.md#readme).
 
 ## Curated Lists
 

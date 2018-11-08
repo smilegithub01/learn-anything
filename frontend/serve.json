@@ -1,10 +1,7 @@
 {
   "public": "build",
   "rewrites": [
-    { "source": "/app/**", "destination": "/app/index.html" }
-  ],
-  "redirects": [
-    { "source": "/", "destination": "/app/" }
+    { "source": "**", "destination": "/index.html" }
   ]
 }
 

@@ -25,7 +25,7 @@
     "reason": "bsb -make-world",
     "js": "npm run reason && webpack",
     "css": "postcss src/styles/Index.css --use postcss-import autoprefixer -o build/static/style.css",
-    "html": "mkdir -p build/app && cp src/Index.html build/app/index.html",
+    "html": "mkdir -p build && cp src/Index.html build/index.html",
     "build": "run-p js css html",
     "start": "serve -p 3000",
     "dev": "nodemon --exec run-s build start --watch src/ --ext re,css,html,json",
@@ -39,6 +39,7 @@
   "devDependencies": {
     "autoprefixer": "^9.3.1",
     "bs-platform": "^4.0.7",
+    "firebase-tools": "^6.0.1",
     "nodemon": "^1.18.5",
     "npm-run-all": "^4.1.3",
     "postcss-cli": "^6.0.1",

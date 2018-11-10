@@ -1,1 +1,1 @@
-ReactDOMRe.renderToElementWithId(<App message="Hello!" />, "root");
+ReactDOMRe.renderToElementWithId(<Router />, "root");

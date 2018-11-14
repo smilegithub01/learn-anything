@@ -29,7 +29,8 @@
     "build": "run-p js css html",
     "start": "serve -p 3000",
     "dev": "nodemon --exec run-s build start --watch src/ --ext re,css,html,json",
-    "clean": "bsb -clean-world && rm -r build"
+    "clean": "bsb -clean-world && rm -r build",
+    "storybook": "start-storybook -p 6006"
   },
   "dependencies": {
     "react": "^16.6.0",
@@ -37,9 +38,16 @@
     "reason-react": "^0.5.3"
   },
   "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@storybook/addon-actions": "^4.0.6",
+    "@storybook/addon-links": "^4.0.6",
+    "@storybook/addons": "^4.0.6",
+    "@storybook/react": "^4.0.6",
     "autoprefixer": "^9.3.1",
+    "babel-loader": "^8.0.4",
     "bs-platform": "^4.0.7",
-    "firebase-tools": "^6.0.1",
+    "bs-storybook": "^0.3.0",
+    "firebase-tools": "^6.1.0",
     "nodemon": "^1.18.5",
     "npm-run-all": "^4.1.3",
     "postcss-cli": "^6.0.1",

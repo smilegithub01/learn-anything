@@ -66,7 +66,7 @@ Learn Anything would not be possible without the [contributors](https://github.c
 
 - [**Angelo Gazzola**](https://github.com/nglgzz): Web developer. Created a complete working version of the website.
 - [**Nikita Voloboev**](https://github.com/nikitavoloboev): Web developer. Curated the entire index of all the maps originally.
-- [**Han Lyn**](https://github.com/iinfin): Designer. Designed the mockups and helps us design the feel and look of Learn Anything.
+- [**Han**](https://github.com/iinfin): Designer. Designed the mockups and helps us design the feel and look of Learn Anything.
 
 ## License
 [![MIT](https://img.shields.io/badge/license-MIT-0a0a0a.svg?style=flat&colorA=0a0a0a)](LICENSE)

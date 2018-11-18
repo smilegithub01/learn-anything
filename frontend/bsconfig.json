@@ -16,7 +16,8 @@
   "suffix": ".bs.js",
   "bs-dependencies": [
     "reason-react",
-    "bs-storybook"
+    "bs-storybook",
+    "bs-css"
   ],
   "warnings": {
     "error": "+101"

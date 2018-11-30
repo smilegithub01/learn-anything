@@ -6,7 +6,7 @@
 [![Paper](https://img.shields.io/badge/-Paper-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/learn-anything/wiki/White-Paper)
 [![Support](https://img.shields.io/badge/%E2%9D%A4-Support-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.patreon.com/learnanything)
 
-#### [Learn Anything](https://learn-anything.xyz) is a project to organize world's knowledge, explore the connections and curate learning paths.
+#### [Learn Anything](https://learn-anything.xyz) is a project to organize world's knowledge, explore connections and curate learning paths.
 
 ## New Design
 
@@ -30,7 +30,7 @@ And an explore page for visualizing the connections of topics to give an overvie
 
 ## Contributing
 
-Please read our [contribution guidelines](.github/CONTRIBUTING.md#readme).
+Please read our [contribution guidelines](CONTRIBUTING.md#readme).
 
 ## Curated Lists
 
@@ -58,15 +58,17 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
 To all the people who contributed to this project and this vision of liberating and visualizing knowledge in this unique way.
 
 Deepest thanks goes to our Patrons:
+
 - [Alfonso Gómez-Jordana](https://twitter.com/alfongj)
 
 ## Team
 
 Learn Anything would not be possible without the [contributors](https://github.com/learn-anything/learn-anything/graphs/contributors) helping to improve the project. Additionally, we have a core project team composed of:
 
-- [**Angelo Gazzola**](https://github.com/nglgzz): Web developer. Created a complete working version of the website.
-- [**Nikita Voloboev**](https://github.com/nikitavoloboev): Web developer. Curated the entire index of all the maps originally.
-- [**Han**](https://github.com/iinfin): Designer. Designed the mockups and helps us design the feel and look of Learn Anything.
+- [**Angelo Gazzola**](https://github.com/nglgzz): Created a complete working version of the website.
+- [**Nikita Voloboev**](https://github.com/nikitavoloboev): Curated the entire index of all the maps originally.
+- [**Han**](https://github.com/iinfin): Designed the mockups and helps us design the feel and look of Learn Anything.
 
 ## License
+
 [![MIT](https://img.shields.io/badge/license-MIT-0a0a0a.svg?style=flat&colorA=0a0a0a)](LICENSE)

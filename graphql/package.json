@@ -21,13 +21,13 @@
     "dev": "NODE_ENV=development nodemon -e js,graphql --exec babel-node src/index.js",
     "flow": "flow --include-warnings",
     "lint": "eslint .",
-    "test-ci": "npm run flow && npm run lint"
+    "test-ci": "npm run lint"
   },
   "dependencies": {
-    "apollo-server": "^2.1.0",
+    "apollo-server": "^2.2.5",
     "faker": "^4.1.0",
     "graphql": "^14.0.2",
-    "node-fetch": "^2.2.0"
+    "node-fetch": "^2.3.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -35,12 +35,12 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-flow": "^6.23.0",
-    "eslint": "^5.8.0",
-    "eslint-config-prettier": "^3.1.0",
-    "eslint-plugin-flowtype": "^3.1.4",
+    "eslint": "^5.9.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-flowtype": "^3.2.0",
     "eslint-plugin-prettier": "^3.0.0",
-    "flow-bin": "^0.84.0",
-    "nodemon": "^1.18.5",
-    "prettier": "^1.14.3"
+    "flow-bin": "^0.87.0",
+    "nodemon": "^1.18.7",
+    "prettier": "^1.15.3"
   }
 }

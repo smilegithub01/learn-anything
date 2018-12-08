@@ -57,10 +57,6 @@ We have created a [Patreon page](https://www.patreon.com/learnanything) where yo
 
 To all the people who contributed to this project and this vision of liberating and visualizing knowledge in this unique way.
 
-Deepest thanks goes to our Patrons:
-
-- [Alfonso Gómez-Jordana](https://twitter.com/alfongj)
-
 ## Team
 
 Learn Anything would not be possible without the [contributors](https://github.com/learn-anything/learn-anything/graphs/contributors) helping to improve the project. Additionally, we have a core project team composed of:

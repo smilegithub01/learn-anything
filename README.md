@@ -8,25 +8,23 @@
 
 #### [Learn Anything](https://learn-anything.xyz) is a project to organize world's knowledge, explore connections and curate learning paths.
 
-## New Design
+**New Design**
 
-Mockups for the next version of Learn Anything. The idea is that for each topic, there will be a "Learn" section focused on study plans created and improved by users, and an "Explore" section for discovering the topic in a mind map.
+Mockups for the next version of Learn Anything. There will be a "Learn" section focused on study plans created and improved by users, and an "Explore" section for discovering the topics in a mind map.
 
-![01](https://git.io/fxfj4)
+![01](https://git.io/fhtr8)
 
-> **Home**
+> `Home`
 
-![02](https://git.io/fxfjR)
+![02](https://git.io/fhtr4)
 
-> **About**
+> `About`
 
-![03](https://git.io/fxfj0)
+![03](https://git.io/fhtrB)
 
-> **Learn**
+> `Learn`
 
-And an explore page for visualizing the connections of topics to give an overview.
-
-> **Explore**
+> `Explore`
 
 ## Contributing
 
@@ -34,36 +32,20 @@ Please read our [contribution guidelines](CONTRIBUTING.md#readme).
 
 ## Curated Lists
 
-With our goal of providing the most efficient paths for Learning Anything, we also manage curation of various curated lists. Feel free to [explore and improve them](https://github.com/learn-anything/curated-lists#readme).
-
-## API
-
-[Here](http://docs.learn-anything.xyz) you can find the public API endpoints we currently have. We will be adding more in the future.
-
-Below are some things people have built with it. Feel free to add yours to this list.
-
-- [Alfred Workflow](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search through all Learn Anything maps.
-- [Albert Plugin](https://github.com/nglgzz/albert-plugins) - Albert plugin to search through all Learn Anything maps.
+We also manage curation of various lists. Feel free to [explore and improve them](https://github.com/learn-anything/curated-lists#readme).
 
 ## Support
 
-This project is **built by the community, for the community** and in our goals to make the most efficient paths and the best user experience possible in exploring the maps and finding the resources you need, we can only rely on donations made by our users to sustain this project.
+This project is built by the community, for the community and our goals is to create the best platform possible for exploring new topics and finding valuable resources. There are no advertisements or sponsored content in the website, we only rely on donations which can be done through our [Patreon page](https://www.patreon.com/learnanything).
 
-There are **no advertisements** and **no sponsored content** in this website as that would defeat our vision of making the best and most optimal learning tracks for learning any topic in the world.
-
-We have created a [Patreon page](https://www.patreon.com/learnanything) where you can support our work. Any donation that you make to this project is incredibly valuable to keep this project going. We also have some awesome rewards that come with your support.
-
-### Thank you
-
-To all the people who contributed to this project and this vision of liberating and visualizing knowledge in this unique way.
+Thank you, to all the people who contributed to this project and this vision of liberating and visualizing knowledge in this unique way.
 
 ## Team
 
-Learn Anything would not be possible without the [contributors](https://github.com/learn-anything/learn-anything/graphs/contributors) helping to improve the project. Additionally, we have a core project team composed of:
-
-- [**Angelo Gazzola**](https://github.com/nglgzz): Created a complete working version of the website.
-- [**Nikita Voloboev**](https://github.com/nikitavoloboev): Curated the entire index of all the maps originally.
-- [**Han**](https://github.com/iinfin): Designed the mockups and helps us design the feel and look of Learn Anything.
+- [@nglgzz](https://github.com/nglgzz) (development)
+- [@nikitavoloboev](https://github.com/nikitavoloboev) (development)
+- [@iinfin](https://github.com/iinfin) (design)
+- [**Contributors**](https://github.com/learn-anything/learn-anything/graphs/contributors)
 
 ## License
 

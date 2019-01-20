@@ -11,7 +11,7 @@
 The website will be updated with three sections:
 
 - **Learn**: Study plans created and improved by users
-- **Explore**: A map containing all topcis to show their relations
+- **Explore**: A map containing all topics to show their relations
 - **Build**: Collection of project ideas shared and collaborated on by users
 
 You can see the mockups below, join us on [Discord](https://discord.gg/KKYdWjt) for suggestions and further discussion.

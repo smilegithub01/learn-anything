@@ -2,29 +2,44 @@
 
 [![Discord](https://img.shields.io/badge/-Discord-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://discord.gg/KKYdWjt)
 [![Twitter](https://img.shields.io/badge/-Twitter-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://twitter.com/learnanything_)
-[![Spectrum](https://img.shields.io/badge/-Spectrum-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://spectrum.chat/learn-anything)
-[![Paper](https://img.shields.io/badge/-Paper-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/learn-anything/wiki/White-Paper)
 [![Support](https://img.shields.io/badge/%E2%9D%A4-Support-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.patreon.com/learnanything)
 
-#### [Learn Anything](https://learn-anything.xyz) is a project to organize world's knowledge, explore connections and curate learning paths.
+#### A project to organize world's knowledge, explore relations and curate learning paths.
 
-**New Design**
+#### Next Version
 
-Mockups for the next version of Learn Anything. There will be a "Learn" section focused on study plans created and improved by users, and an "Explore" section for discovering the topics in a mind map.
+The website will be updated with three sections:
 
-![01](https://git.io/fhtr8)
+- **Learn**: Study plans created and improved by users
+- **Explore**: A map containing all topcis to show their relations
+- **Build**: Collection of project ideas shared and collaborated on by users
+
+You can see the mockups below, join us on [Discord](https://discord.gg/KKYdWjt) for suggestions and further discussion.
+
+<details>
+<summary>Mockups</summary><br>
+
+![00](https://git.io/fhuEl)
 
 > `Home`
 
-![02](https://git.io/fhtr4)
-
-> `About`
-
-![03](https://git.io/fhtrB)
+![01](https://git.io/fhuE4)
 
 > `Learn`
 
+![02](https://git.io/fhuER)
+
 > `Explore`
+
+![03](https://git.io/fhuE0)
+
+> `Build`
+
+![04](https://git.io/fhuE8)
+
+> `About`
+
+</details>
 
 ## Contributing
 
@@ -36,16 +51,16 @@ We also manage curation of various lists. Feel free to [explore and improve them
 
 ## Support
 
-This project is built by the community, for the community and our goals is to create the best platform possible for exploring new topics and finding valuable resources. There are no advertisements or sponsored content in the website, we only rely on donations which can be done through our [Patreon page](https://www.patreon.com/learnanything).
+This project is built by the community, for the community and our goals is to create the best platform possible for exploring new topics and finding valuable resources. There are no advertisements or sponsored content in the website, we rely on donations which can be done through our [Patreon page](https://www.patreon.com/learnanything).
 
-Thank you, to all the people who contributed to this project and this vision of liberating and visualizing knowledge in this unique way.
+Thank you, to all the people who contributed to this project and vision.
 
 ## Team
 
-- [@nglgzz](https://github.com/nglgzz) (development)
-- [@nikitavoloboev](https://github.com/nikitavoloboev) (development)
-- [@iinfin](https://github.com/iinfin) (design)
-- [**Contributors**](https://github.com/learn-anything/learn-anything/graphs/contributors)
+- [@nglgzz](https://github.com/nglgzz) - development
+- [@nikitavoloboev](https://github.com/nikitavoloboev) - development
+- [@iinfin](https://github.com/iinfin) - design
+- [*Contributors*](https://github.com/learn-anything/learn-anything/graphs/contributors)
 
 ## License
 

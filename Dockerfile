@@ -1,18 +1,24 @@
-FROM node:8.9.0
-EXPOSE 3000
+FROM node:8.9.0 as builder
+RUN mkdir /app
+WORKDIR /app/
 
-RUN mkdir -p /usr/src/app
-WORKDIR /usr/src/app
-
-ARG NODE_ENV
-ENV NODE_ENV $NODE_ENV
-ENV DOCKER true
-COPY package.json /usr/src/app/
+ADD package.json /app/
 RUN npm install
-COPY . /usr/src/app
+
+ADD . /app/
 RUN npm run build:prod
 
-ADD entrypoint.sh /usr/src/app/
-ENV NODE_ENV=development
+FROM node:8.9.0
+WORKDIR /root/
+RUN mkdir /root/client/
+COPY --from=builder /app/package.json /root/
+COPY --from=builder /app/client/index.html /root/client/
+COPY --from=builder /app/client/resources /root/client/
+COPY --from=builder /app/client/dist /root/client/
+COPY --from=builder /app/server /root/
+RUN npm install --production
 
-CMD ["/usr/src/app/entrypoint.sh"]
+EXPOSE 3000
+ENV NODE_ENV production
+ENV DOCKER true
+CMD ["node", "./server/index.js"]

@@ -13,13 +13,14 @@ module.exports = {
   },
 
   rules: {
+    'import/no-extraneous-dependencies': 'off',
     'react/jsx-uses-vars': 'error',
     'react/jsx-uses-react': 'error',
     'linebreak-style': 'off',
     'object-curly-newline': 'off',
     'no-console': 'warn',
     'class-methods-use-this': 'off',
-    'no-mixed-operators': ['error', { 'allowSamePrecedence': true }],
+    'no-mixed-operators': ['error', { allowSamePrecedence: true }],
   },
 
   parser: 'babel-eslint',

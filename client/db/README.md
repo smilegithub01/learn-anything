@@ -1,6 +1,6 @@
-# Awesome Project Build with TypeORM
+# Learn Anything DB
 
-Steps to run this project:
+Steps to run this:
 
 1. Run `npm i` command
 2. Setup database settings inside `ormconfig.json` file

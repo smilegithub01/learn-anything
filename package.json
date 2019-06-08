@@ -1,8 +1,8 @@
 {
-  "name": "product",
+  "name": "learn-anything",
   "version": "1.0.0",
   "private": true,
-  "repository": "https://github.com/nice-boys/product-boilerplate",
+  "repository": "https://github.com/learn-anything/learn-anything",
   "author": "Max Stoiber <contact@mxstbr.com>",
   "workspaces": {
     "packages": [
@@ -23,7 +23,9 @@
     "generate:web": "graphql-codegen --config graphql-codegen.yml",
     "generate:server": "ts-node --skip-project server/graphql/schema/index.ts",
     "generate:db": "yarn workspace server generate:db",
-    "postinstall": "yarn run generate"
+    "postinstall": "yarn run generate",
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
   },
   "eslintConfig": {
     "parser": "@typescript-eslint/parser",
@@ -109,6 +111,8 @@
     "now": "^15.3.0",
     "prettier": "^1.17.0",
     "react-dev-utils": "^9.0.1",
+    "react-github-button": "^0.1.11",
+    "react-helmet": "^5.2.1",
     "ts-node": "^8.2.0"
   },
   "resolutions": {

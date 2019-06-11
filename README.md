@@ -8,6 +8,8 @@
 
 #### Next Version
 
+Our [team](#team) is currently working hard to develop the next version of this website!
+
 The website will be updated with three sections:
 
 - **Learn**: Study plans created and improved by users
@@ -18,6 +20,8 @@ You can see the mockups below, join us on [Discord](https://discord.gg/KKYdWjt) 
 
 <details>
 <summary>Mockups</summary><br>
+
+_A special thanks to [@iinfin](https://github.com/iinfin) for designing the following mockups!_
 
 ![00](https://git.io/fhuEl)
 
@@ -57,9 +61,10 @@ Thank you, to all the people who contributed to this project and vision.
 
 ## Team
 
-- [@nglgzz](https://github.com/nglgzz) - development
-- [@nikitavoloboev](https://github.com/nikitavoloboev) - development
-- [@iinfin](https://github.com/iinfin) - design
+- [@nikitavoloboev](https://github.com/nikitavoloboev) - developer
+- [@johnletey](https://github.com/johnletey) - developer
+- [@simonpeterdebbarma](https://github.com/simonpeterdebbarma) - developer
+- [@nglgzz](https://github.com/nglgzz) - developer
 - [_Contributors_](https://github.com/learn-anything/learn-anything/graphs/contributors)
 
 ## License
